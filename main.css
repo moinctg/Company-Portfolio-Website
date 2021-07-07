@@ -45,7 +45,7 @@ body {
     display: block;
     color: #f2f2f2;
     text-align: left;
-    padding: 14px 16px;
+    padding: 20px 16px;
     text-decoration: none;
     margin-left: 25px;
     text-decoration: #ddd;
@@ -73,6 +73,7 @@ body {
 }
 .img{
     border:1px solid #ddd;
+    box-shadow: 0px,2px,3px gray;
     border-bottom: #333;
     border-radius: 2px;
     padding:5px;
